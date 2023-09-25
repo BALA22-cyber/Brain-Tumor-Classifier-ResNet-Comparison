@@ -13,7 +13,7 @@ Running Instructions :
 - For Resizing and Cropping : Open Cropping.Ipynb. Remember to include your dataset path and ensure you read your image dataset size before usage of the code. Install pyrodynamics library and Simple ITK library as is was used to extract image COM.
 - We ran the tests in google colab, but if you're runnning it in local system, remember to install the following dependencies: 
 
-```
+```dependencies
 pyradiomics
 numpy
 os
