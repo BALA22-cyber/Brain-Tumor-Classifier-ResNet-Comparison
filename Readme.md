@@ -9,7 +9,7 @@ b) MobileNet - Adam optimizer with a Lr of 1e-3
 c) ResNet50 - 3 Dense Layers
 d) ResNet152V2 - 3 Dense Layers
 
-###Running Instructions :
+### Running Instructions
 - make sure to download the dataset from the following kaggle website:
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 - For Resizing and Cropping : Open Cropping.Ipynb. Remember to include your dataset path and ensure you read your image dataset size before usage of the code. Install pyrodynamics library and Simple ITK library as is was used to extract image COM.
